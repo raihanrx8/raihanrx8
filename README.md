@@ -1,5 +1,12 @@
 ### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Muhammad Raihan Firmansyah**.
+
+
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-raihan-firmansyah-b73b52266/) ku ya.
 <!--
 **raihanrx8/raihanrx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
